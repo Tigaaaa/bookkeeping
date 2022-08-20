@@ -1,0 +1,1 @@
+<picker class="time data-v-8082755a" mode="multiSelector" value="{{multiIndex}}" range="{{multiArray}}" data-event-opts="{{[['change',[['bindMultiPickerChange',['$event']]]],['columnchange',[['bindMultiPickerColumnChange',['$event']]]]]}}" bindchange="__e" bindcolumnchange="__e"><view class="data-v-8082755a">{{time}}</view></picker>

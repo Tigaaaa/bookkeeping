@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/rAndE/rAndE",
+    "pages/statistics/statistics",
+    "pages/account/account",
+    "pages/addView/addView"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "color": "#ccc",
+    "selectedColor": "#bbb",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/login/login",
+        "text": "登录"
+      },
+      {
+        "pagePath": "pages/rAndE/rAndE",
+        "text": "收支"
+      },
+      {
+        "pagePath": "pages/statistics/statistics",
+        "text": "统计"
+      },
+      {
+        "pagePath": "pages/account/account",
+        "text": "账户"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

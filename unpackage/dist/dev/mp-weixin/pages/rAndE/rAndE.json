@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "收支",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "date-box": "/components/dateBox"
+  }
+}

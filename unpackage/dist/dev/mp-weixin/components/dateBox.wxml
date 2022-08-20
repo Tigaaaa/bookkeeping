@@ -1,0 +1,1 @@
+<picker mode="date" value="myDate" fields="month" data-event-opts="{{[['change',[['bindDateChange',['$event']]]]]}}" bindchange="__e"><view class="time">{{myDate}}</view></picker>

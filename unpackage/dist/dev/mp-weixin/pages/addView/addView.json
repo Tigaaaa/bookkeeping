@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "记账",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "time-box": "/components/timeBox",
+    "account-choose": "/components/accountChoose"
+  }
+}
